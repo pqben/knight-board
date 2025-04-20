@@ -4,8 +4,7 @@ and the main design choices that have been taken.
 The application has been developed with Java 17 and Spring Boot.
 
 # Knight board execution
-This section explains how to run the Knight Board Spring Boot application.
-
+This section explains how to run the Knight Board Spring Boot application.\
 After that the Maven project has been packaged into a JAR file with the 
 following command:
 ```
