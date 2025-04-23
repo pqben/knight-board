@@ -1,6 +1,6 @@
 # Knight board documentation
 The following sections explain how to execute the Knight Board application 
-and the main design choices that have been taken.
+and the main design choices that have been taken.\
 The application has been developed with Java 17 and Spring Boot.
 
 # Knight board execution
